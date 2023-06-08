@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\java\\jsoup\\jsoup-1.14.3.jar",
+        "d:\\java\\jsoup\\ikonli-antdesignicons-pack-12.2.0.jar",
+        "d:\\java\\jsoup\\JTattoo-1.6.13.jar",
+        "d:\\java\\jsoup\\swingx-all-1.6.4.jar",
+        "c:\\Users\\himad\\Downloads\\jsoup-1.14.3.jar",
+        "d:\\RTDE\\REAL TIME DATA EXTRACTION\\jar files\\swingx-all-1.6.4.jar",
+        "c:\\Users\\himad\\Downloads\\jsoup-1.16.1.jar",
+        "c:\\Users\\himad\\Downloads\\swing-framework.jar\\swing-framework.jar",
+        "c:\\Users\\himad\\Downloads\\org-jdesktop-swingx.jar\\org-jdesktop-swingx.jar"
+    ]
+}
